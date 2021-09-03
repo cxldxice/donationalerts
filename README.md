@@ -1,3 +1,8 @@
+# Install
+```bash
+pip install donationalerts
+```
+
 # Get token
 ## Get client_id and client_secret - [here](https://www.donationalerts.com/application/clients)
 ```python
